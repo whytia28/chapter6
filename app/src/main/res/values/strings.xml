@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter6</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="image">image</string>
+    <string name="list">List</string>
+    <string name="card_view">Card View</string>
+    <string name="grid">Grid</string>
+</resources>
